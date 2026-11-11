@@ -71,6 +71,7 @@ These findings help highlight important patterns in product performance, regiona
 
 The Power BI dashboard presents the major findings from the retail sales analysis through visualisations and key business metrics.
 
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
 
 **Power BI Dashboard:** [Download the Power BI Dashboard](https://github.com/Explorer239/retail-sales-analysis-sql-powerbi/blob/main/Retail_Sales_Analysis_SQL_%26_PowerBI/Retail_Sales_Dashboard.pbix)
 
